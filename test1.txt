@@ -1,2 +1,4 @@
 just text!!
 git is free software and good!
+git is a distributed version control system!
+
