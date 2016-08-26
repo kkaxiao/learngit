@@ -1,3 +1,3 @@
 hello,git
-git tracks changes of files
+git tracks changes.
 
